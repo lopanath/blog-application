@@ -12,7 +12,7 @@ import { PostlistComponent } from '../postlist/postlist.component';
   styleUrl: './comment.component.css'
 })
 export class CommentComponent {
-  comments: any[] = [
+  comments: any[] = [  
     {name:"Lopa",
     text:"This is good one"}
   ];
